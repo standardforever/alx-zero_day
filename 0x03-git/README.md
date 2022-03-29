@@ -1,1 +1,1 @@
-New_dir
+My git project
